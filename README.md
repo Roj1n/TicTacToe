@@ -67,7 +67,7 @@ Follow these steps to get the project up and running on your local machine:
 ## 🎮 How to Play
 
 1. The game is played on a 3x3 grid.
-2. You play as 'X' and the AI plays as 'O'.
+2. You play as 'X'(first letter of ypur name) and the AI plays as 'O'.
 3. Click on any empty cell to place your move.
 4. The AI will make its move after you.
 5. The first player to get three of their marks in a row (horizontal, vertical, or diagonal) wins.
