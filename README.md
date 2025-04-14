@@ -4,7 +4,7 @@ Welcome to the Tic-Tac-Toe game built with React! This project allows you to pla
 
 ## 📺 Live Demo
 
-👉 [**Play it Here!**](https://tic-tac-toe-amber-tau.vercel.app)
+👉 [**Play it Here!**](https://tic-tac-kc89p8jno-roj1ns-projects.vercel.app/)
 
 Check out the live version and challenge the AI right in your browser!
 
